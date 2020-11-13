@@ -334,12 +334,32 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
+.Data Structure {
+    width: 87%;
+    -moz-animation: Data Structure 2s ease;
+    -webkit-animation: Data Structure 2s ease;
+}
+.C++ {
+    width: 90%;
+    -moz-animation: C++ 2s ease;
+    -webkit-animation: C++ 2s ease;
+}
+.C {
+    width: 85%;
+    -moz-animation: C 2s ease;
+    -webkit-animation: C 2s ease;
+}
+.Algorithm {
+    width: 82%;
+    -moz-animation: Algorithm 2s ease;
+    -webkit-animation: Algorithm 2s ease;
+}
 .python {
   	width: 90%;
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
-.dm {
+/*.dm {
   	width: 85%;
   	-moz-animation: dm 2s ease;
   	-webkit-animation: dm 2s ease;
@@ -373,7 +393,7 @@ ul#nav li.current a { color: #F06000; }
     width: 60%;
     -moz-animation: ejs 2s ease;
     -webkit-animation: ejs 2s ease;
-}
+}*/
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
