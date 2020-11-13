@@ -334,7 +334,7 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.data_structure {
+.data_structures {
     width: 87%;
     -moz-animation: data_structure 2s ease;
     -webkit-animation: data_structure 2s ease;
@@ -349,7 +349,7 @@ ul#nav li.current a { color: #F06000; }
     -moz-animation: c 2s ease;
     -webkit-animation: c 2s ease;
 }
-.algorithm {
+.algorithms {
     width: 82%;
     -moz-animation: algorithm 2s ease;
     -webkit-animation: algorithm 2s ease;
