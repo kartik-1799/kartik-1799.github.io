@@ -334,10 +334,10 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.data_structures {
+.data_structure {
     width: 87%;
-    -moz-animation: data_structures 2s ease;
-    -webkit-animation: data_structures 2s ease;
+    -moz-animation: data_structure 2s ease;
+    -webkit-animation: data_structure 2s ease;
 }
 .cpp {
     width: 90%;
@@ -349,10 +349,10 @@ ul#nav li.current a { color: #F06000; }
     -moz-animation: c 2s ease;
     -webkit-animation: c 2s ease;
 }
-.algorithms {
+.algorithm {
     width: 82%;
-    -moz-animation: algorithms 2s ease;
-    -webkit-animation: algorithms 2s ease;
+    -moz-animation: algorithm 2s ease;
+    -webkit-animation: algorithm 2s ease;
 }
 .python {
   	width: 90%;
