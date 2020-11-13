@@ -336,8 +336,8 @@ ul#nav li.current a { color: #F06000; }
 
 .data_structures {
     width: 87%;
-    -moz-animation: data_structure 2s ease;
-    -webkit-animation: data_structure 2s ease;
+    -moz-animation: data_structures 2s ease;
+    -webkit-animation: data_structures 2s ease;
 }
 .cpp {
     width: 90%;
@@ -351,8 +351,8 @@ ul#nav li.current a { color: #F06000; }
 }
 .algorithms {
     width: 82%;
-    -moz-animation: algorithm 2s ease;
-    -webkit-animation: algorithm 2s ease;
+    -moz-animation: algorithms 2s ease;
+    -webkit-animation: algorithms 2s ease;
 }
 .python {
   	width: 90%;
